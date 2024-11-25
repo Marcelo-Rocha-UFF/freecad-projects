@@ -1,3 +1,3 @@
-# PhiGital Case Project
+# PHIGITAL Case Project
 
-Estes
+These files belong to Rômulo Vieira's doctoral project (Fluminense Federal University - UFF).
