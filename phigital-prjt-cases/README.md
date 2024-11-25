@@ -6,9 +6,7 @@ Next, some images of the 3D project and physical objects resulting from 3D print
 
 The drumstick case design was all done in FreeCAD software and the pedals case was done in TinkerCAD software. The prints were made on a Creality Ender3 V3 printer using Creality's own slicing software.
 
-
 </br>
-</br></br>
 <p align="center">
 <img src="./images/freecad_img1.jpeg" width="100%"> </br></br>
 </p>
